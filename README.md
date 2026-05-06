@@ -22,6 +22,22 @@ Attach a base on left side of the curtain rod. Make sure the curtain is **open.*
 
 For the right side, use the other base, the one with the hole on the PCB side.
 
+**Design:**
+
+Your design mounts should look like a "lollipop".
+The head should be < 4mmx4mm  (no tolerances included), and the stick should be < 3mm. Max mount length: 2cm / 20mm.
+
+On your designs, the sides closest to each other on each mount should be > 10mm.
+
+Take a look at this example(Units in mm): 
+
+<img width="677" height="566" alt="image" src="https://github.com/user-attachments/assets/99b8a2f6-9dd3-4ef8-84cd-76ab9438e48a" />
+
+You could make it bigger if you wanted:
+
+<img width="456" height="358" alt="image" src="https://github.com/user-attachments/assets/03b37ace-3189-4746-9603-da860c0b6970" />
+
+
 **BOM**:
 
 You may find the BOM here: [BOM.csv](https://github.com/OrcaTheWhale/The-ShadeNoMore-9000/blob/main/BOM.csv)
