@@ -68,5 +68,5 @@ Schematic:
 Remote Schematic:
 <img width="324" height="151" alt="image" src="https://github.com/user-attachments/assets/69115dad-7be0-431c-acee-35c674c1ee3e" />
 
-
+Small detail: Under the PCB files, it'll be under a different name, due to it being the original name for this project, before changing it.
 
