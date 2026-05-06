@@ -51,6 +51,13 @@ The Machine Screws are in a kit because the kit has all the different lengths, a
 
 
 
+PCB:
+
+<img width="721" height="685" alt="image" src="https://github.com/user-attachments/assets/b21ad34e-8e59-4a08-a969-905915fe8c49" />
+
+<img width="813" height="657" alt="image" src="https://github.com/user-attachments/assets/d4adcdea-d2a6-484c-a654-45e0c670dcb7" />
+
+
 Schematic:
 <img width="700" height="632" alt="image" src="https://github.com/user-attachments/assets/954adf55-7885-4081-b9c2-7e59a221e226" />
 
