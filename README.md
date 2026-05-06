@@ -4,6 +4,13 @@ The ShdeNoMore 9000 is a product designed to make being lazy look cool. Featurin
 
 Yeah idk I think I do this off screen or smth
 
+**BOM**:
+
+The prices are high for small parts due to the prices include shipping.
+
+*Jumper Wires: Realistically, you SHOULD HAVE jumper wires of such short length, about 24-30 AWG.
+
+
 
 Schematic:
 <img width="700" height="632" alt="image" src="https://github.com/user-attachments/assets/954adf55-7885-4081-b9c2-7e59a221e226" />
