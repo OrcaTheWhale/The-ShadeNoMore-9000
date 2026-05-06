@@ -6,9 +6,13 @@ Yeah idk I think I do this off screen or smth
 
 **BOM**:
 
+You may find the BOM here: 
 The prices are high for small parts due to the prices include shipping.
 
 *Jumper Wires: Realistically, you SHOULD HAVE jumper wires of such short length, about 24-30 AWG.
+
+The Machine Screws are in a kit because the kit has all the different lengths, and nuts needed. Buying each part individually would only increase unnecessary costs.
+
 
 
 
