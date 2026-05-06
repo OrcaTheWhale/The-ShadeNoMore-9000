@@ -6,7 +6,8 @@ Yeah idk I think I do this off screen or smth
 
 **BOM**:
 
-You may find the BOM here: BOM.csv
+You may find the BOM here: [BOM.csv](https://github.com/OrcaTheWhale/The-ShadeNoMore-9000/blob/main/BOM.csv)
+
 The prices are high for small parts due to the prices include shipping.
 
 *Jumper Wires: Realistically, you SHOULD HAVE jumper wires of such short length, about 24-30 AWG.
