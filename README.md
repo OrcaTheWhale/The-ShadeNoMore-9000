@@ -10,6 +10,10 @@ I wanted to create a household item using a low power microcontroller, and acces
 I also made this project because of one thing: The design connection concept. On the sliders, there is clips where you can put two halves of 3D prints or anything like that, and when the curtain fully closes, it'll make the piece whole through the two sliders. That is why the PCB and the remote is and has a design of a Yin and Yang(The PCB technically won't actually match up if you flip the board, but whatever it looks cool). 
 
 
+<img width="463" height="666" alt="image" src="https://github.com/user-attachments/assets/2a108be1-e21a-46b6-aa91-37fbcf8e270c" />
+
+
+
 How to use it:
 
 **IMPORTANT: The rightside PCB has the IR Receiver soldered onto the BACKSIDE of the PCB, not the front.**
@@ -63,4 +67,6 @@ Schematic:
 
 Remote Schematic:
 <img width="324" height="151" alt="image" src="https://github.com/user-attachments/assets/69115dad-7be0-431c-acee-35c674c1ee3e" />
+
+
 
