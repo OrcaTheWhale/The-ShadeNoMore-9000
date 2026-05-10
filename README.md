@@ -68,7 +68,6 @@ Schematic:
 Remote Schematic:
 <img width="324" height="151" alt="image" src="https://github.com/user-attachments/assets/69115dad-7be0-431c-acee-35c674c1ee3e" />
 
-Small detail: Under the PCB files, it'll be under a different name, due to it being the original name for this project, before changing it.
 
 CAD: https://cad.onshape.com/documents/52cdd38d5fc3852829c5e378/w/375261aaecfc0994e985cde6/e/3bd0b3ebbb21816225754123?renderMode=0&uiState=69fbb44bd53928fd316b7f96
 
